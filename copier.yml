@@ -1,0 +1,14 @@
+_exclude:
+  - /metadata.json
+  - .github/workflows/repo-sync.yml
+  - TODO
+  - /.git
+  - /README.md
+  - /LICENSE.md
+
+_tasks:
+  - git init
+  - git add -A
+  - git commit -m "🎉 Initial commit"
+  # - ["{{ _copier_python }}", .copier/bootstrap.py]
+  - git add -A

@@ -8,7 +8,8 @@
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
     "upgrade:shadcn": "npx --yes shadcn@canary add --all --overwrite --yes",
-    "upgrade:packages": "pnpx npm-check-updates --interactive --format group"
+    "upgrade:packages": "pnpx npm-check-updates --interactive --format group",
+    "upgrade:prompts": "curl -sSL https://raw.githubusercontent.com/iloveitaly/llm-ide-prompts/master/download.sh | sh -s all"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",

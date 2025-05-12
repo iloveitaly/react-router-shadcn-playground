@@ -1,0 +1,15 @@
+{
+  "description": "A playground project integrating React Router and shadcn/ui components, designed for rapid UI prototyping and experimentation.",
+  "homepage": "https://github.com/iloveitaly/react-router-shadcn-playground",
+  "keywords": [
+    "react",
+    "react-router",
+    "shadcn",
+    "tailwindcss",
+    "vite",
+    "typescript",
+    "ui-components",
+    "playground",
+    "prototyping"
+  ]
+}
