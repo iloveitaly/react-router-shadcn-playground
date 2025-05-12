@@ -1,5 +1,7 @@
 # React Router + Shadcn Playground
 
+Having a simple playground template, well structured for LLM instructions, is key to rapid iteration: especially when prototyping new UIs.
+
 ## Usage
 
 Get started with copier:
