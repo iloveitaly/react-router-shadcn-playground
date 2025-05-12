@@ -8,7 +8,7 @@ Get started with copier:
 
 ```shell
 uv tool run copier@latest copy --trust \
-  https://github.com/iloveitaly/python-starter-template \
+  https://github.com/iloveitaly/react-router-shadcn-playground \
   your-project-name
 ```
 
